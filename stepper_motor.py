@@ -1,3 +1,8 @@
+# stepper_motor.py - A python module to control a stepper motor.
+# Created by ClayXrex, April 10, 2023.
+# Released into the public domain.
+# Do with this as you please.
+
 import RPi.GPIO as GPIO
 import time
 
